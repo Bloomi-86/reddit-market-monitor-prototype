@@ -1,1 +1,0 @@
-# reddit-market-monitor-prototype
